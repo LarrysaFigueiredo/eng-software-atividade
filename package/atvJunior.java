@@ -1,5 +1,3 @@
-package br.ufpb.dcx.eng.atv.pratica;
-
 public class AppJunior {
     
     public static void main(String[] args) {
